@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/The-project/static/css/main.7c623362.css",
+    "main.js": "/The-project/static/js/main.fa41ea76.js",
+    "static/media/ABOUT.png": "/The-project/static/media/ABOUT.58c8f2329050b16756c5.png",
+    "static/media/Chà Bông.jpg": "/The-project/static/media/Chà Bông.1c7c6b5445df0af4c0c4.jpg",
+    "static/media/keep your order.png": "/The-project/static/media/keep your order.67b49d43f811a619acb7.png",
+    "static/media/mar 5.png": "/The-project/static/media/mar 5.932688e131ee1acd351a.png",
+    "static/media/mar 3.png": "/The-project/static/media/mar 3.6f9ca893bdb53d52eaab.png",
+    "static/media/Chả chiên.png": "/The-project/static/media/Chả chiên.b0ee15e2b27f115574d1.png",
+    "static/media/mar 4.png": "/The-project/static/media/mar 4.aa29e8aec372ffa50c6e.png",
+    "static/media/chả hoa.png": "/The-project/static/media/chả hoa.342501319c8f33b9fe83.png",
+    "static/media/cha lua.png": "/The-project/static/media/cha lua.fb5999291fa508e5e436.png",
+    "static/media/Crispy-Spring-Rolls-PNG-Image 1.png": "/The-project/static/media/Crispy-Spring-Rolls-PNG-Image 1.85c9e31939e6f87daa3d.png",
+    "static/media/footer.png": "/The-project/static/media/footer.00cf093fafb7d7a2b50f.png",
+    "static/media/background-product.png": "/The-project/static/media/background-product.850cb9b6871df40f2b5b.png",
+    "static/media/uber.png": "/The-project/static/media/uber.0c2280c8f7f40c2e8197.png",
+    "static/media/zyro-image 1.png": "/The-project/static/media/zyro-image 1.a1aae07099e8ecbf93b2.png",
+    "static/media/blog posts.png": "/The-project/static/media/blog posts.7c67d04feb2bdecae7f0.png",
+    "static/media/get in touch.png": "/The-project/static/media/get in touch.e310b2e3c16d86de5ceb.png",
+    "static/media/Products title.png": "/The-project/static/media/Products title.c29d6387ee67c3fda3e4.png",
+    "static/media/product price.png": "/The-project/static/media/product price.158ff36b290e418a70b9.png",
+    "static/media/order now.png": "/The-project/static/media/order now.98078f1c1a6e5ccd7430.png",
+    "static/media/FACT.png": "/The-project/static/media/FACT.3268f5f15d38fdeab0f8.png",
+    "static/media/read more.png": "/The-project/static/media/read more.82b3259a49f72bf4034d.png",
+    "static/media/blog.png": "/The-project/static/media/blog.9fbe61fc9199779b0dbb.png",
+    "static/media/checkout-buy.png": "/The-project/static/media/checkout-buy.1dc51214da01aa083dec.png",
+    "static/media/bag.png": "/The-project/static/media/bag.592c19f5dc5efe6c2604.png",
+    "static/media/form button.png": "/The-project/static/media/form button.0cb437f44261b1d5e609.png",
+    "static/media/search-icon.png": "/The-project/static/media/search-icon.01980f44f2bd96f3db74.png",
+    "index.html": "/The-project/index.html",
+    "main.7c623362.css.map": "/The-project/static/css/main.7c623362.css.map",
+    "main.fa41ea76.js.map": "/The-project/static/js/main.fa41ea76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c623362.css",
+    "static/js/main.fa41ea76.js"
+  ]
+}
